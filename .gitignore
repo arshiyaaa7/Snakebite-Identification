@@ -1,0 +1,18 @@
+# Dataset folders
+/venomous/
+/non_venomous/
+/other/
+/testing/
+
+# Model/binary files
+/converted_keras.zip
+/keras_model.h5
+*.h5
+
+# Specific scripts
+/Snakebite.py
+
+# System/Python files
+.DS_Store
+__pycache__/
+*.py[cod]
