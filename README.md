@@ -25,7 +25,7 @@ Please collect the dataset from webscraping and create your own keras model.
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/snakebite-identification.git
+   git clone https://github.com/arshiyaaa7/snakebite-identification.git
    ```
 2. Navigate to the project directory:
    ```bash
