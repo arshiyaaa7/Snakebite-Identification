@@ -15,7 +15,7 @@ The SnakeBite Identification project is a machine learning-based application des
 - 💾 NumPy and Pandas for data manipulation
 
 ## 🧠 Model Training
-The Keras model used in this project was trained using Google's Teachable Machine. It helps in generating models efficiently with minimal coding.
+The Keras model used in this project was trained using Google's Teachable Machine. 
 
 Model Training Image:
 ![Teachable Machine](https://github.com/user-attachments/assets/215b2b35-8d1c-4b67-ab28-14250a1de618)
