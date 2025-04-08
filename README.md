@@ -7,13 +7,20 @@ The SnakeBite Identification project is a machine learning-based application des
 - 🐍 Snakebite image classification
 - 🧠 Machine Learning model for venomous/non-venomous prediction
 - 🗃️ Dataset handling and preprocessing
-- 📊 Visualization of predictions
 
 ## 💻 Technologies Used
 - 🐍 Python
 - 📦 OpenCV for image processing
 - 🤖 Scikit-learn for model training
 - 💾 NumPy and Pandas for data manipulation
+
+## 🧠 Model Training
+The Keras model used in this project was trained using Google's Teachable Machine. It helps in generating models efficiently with minimal coding.
+
+Model Training Image:
+![Teachable Machine](https://github.com/user-attachments/assets/215b2b35-8d1c-4b67-ab28-14250a1de618)
+Please collect the dataset from webscraping and create your own keras model.
+
 
 ## 🛠️ Installation
 1. Clone the repository:
@@ -28,6 +35,7 @@ The SnakeBite Identification project is a machine learning-based application des
    ```bash
    pip install -r requirements.txt
    ```
+
 
 ## 🚀 Usage
 1. Run the Python script:
@@ -71,5 +79,9 @@ SnakeBite-Identification/
 5. Open a Pull Request.
 
 ## 🖼️ Images
-_Add sample outputs and visualizations here._
+Output for venomous snake 
+![Venomous](https://github.com/user-attachments/assets/da049b42-c083-49f9-b60b-9b804ea95e41)
+
+Output for Non venomous snake 
+![Non - Venomous](https://github.com/user-attachments/assets/2d9e7fef-3b95-4613-8afd-66a9ce78ca04)
 
