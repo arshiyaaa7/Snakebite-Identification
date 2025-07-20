@@ -1,7 +1,22 @@
 # 🐍 SnakeBite Identification
 
-## 📑 Project Description
-The SnakeBite Identification project is a machine learning-based application designed to identify whether a snakebite is from a venomous or non-venomous snake. This project leverages image processing and classification techniques to predict the type of snake using a trained model.
+## 🚀 Motivation and Innovation
+   Every year, snakebites cause over 100,000 deaths globally, with India alone reporting around 58,000 fatalities annually according to the WHO. Many of these deaths are preventable with early and 
+   accurate identification of whether the snake involved is venomous or non-venomous. Unfortunately, timely diagnosis is often delayed due to a lack of accessible identification tools in rural or 
+   emergency settings.
+
+  To address this critical healthcare gap, this project proposes an ML-based image classification tool that can assist frontline responders and medical personnel in identifying the type of snake        
+  involved in a bite incident.
+  
+   🧪 Novel Contributions
+
+   -  ✅ Gap Identified: While several generic object detection models exist, none focus specifically on real-time snakebite aid using lightweight, offline-friendly ML models.
+
+   - 🐍 Custom Dataset: A dataset was curated by collecting snake images across multiple classes (venomous and non-venomous), ensuring a diverse representation.
+
+   - 🤖 Teachable Machine + Keras Model: We leveraged Google’s Teachable Machine to train a Keras-compatible image classifier, allowing rapid prototyping and export to production-ready formats.
+
+   - 📈 Performance: Our model achieved ~90% classification accuracy on the test set, making it a promising candidate for real-world deployment with further training and validation.
 
 ## 🌟 Features
 - 🐍 Snakebite image classification
